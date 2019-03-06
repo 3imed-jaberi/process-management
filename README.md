@@ -2,7 +2,7 @@
 ---
 ### This is a practical examples for the notion of process management in OSs with C language from scratch ...
 
-![imed-jaberi](/lib/images/os_process_states.png) 
+![imed-jaberi](/lib/img/os_process_states.png) 
 
 ###### **`NOTE:`** If you do not have any information about the process you can read [here](https://www.tutorialspoint.com/operating_system/process_management.asp) or enter the documentation section ```/lib/doc``` and you will find the lesson of my university in french ..
 
